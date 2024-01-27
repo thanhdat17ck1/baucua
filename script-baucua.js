@@ -31,7 +31,7 @@ function RenderName(value) {
         return `<img src="images/ga.png" />`;;
     }
     else {
-        return `<img src="images/Nai.png" />`;
+        return `<img src="images/nai.png" />`;
     }
 }
 
